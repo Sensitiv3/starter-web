@@ -8,10 +8,10 @@ Sample website with plenty of files for demos
 
 ## Purpose
 
-
+To understand git
 
 ## Depolyment
 
-
+This is a sample project
 
 ## How To Contribute
