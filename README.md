@@ -16,7 +16,7 @@ This is a sample project
 
 ## How To Contribute
 
-
+Please fork this repo and review
 
 ### Copyright
 
