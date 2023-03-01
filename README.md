@@ -1,6 +1,7 @@
 # Starter Web Repo
 
 This is a sample website project.
+Adding a line
 
 ## Introduction
 
