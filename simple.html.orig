@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+	Copyright 2014 Git.Training
+<head>
+<<<<<<< HEAD
+	<title>A Zombie website</title>
+=======
+	<title>An example learn</title>
+>>>>>>> realwork
+	<link rel="stylesheet" href="css/bootstrap.min.css">
+	<style>
+		body {
+			padding-top: 50px;
+			padding-bottom: 20px;
+		}
+	</style>
+	<link rel="stylesheet" href="css/bootstrap-theme.min.css">
+</head>
+<body>
+	<main class="container">
+	<!-- Content Goes Here -->
+		<p>
+			Just some content
+		</p>
+	</main>
+	<footer class="container">
+<<<<<<< HEAD
+		<p>&copy; Zombie Company 2014 like shit</p>
+=======
+		<p>&copy; Learning 2014</p>
+>>>>>>> realwork
+	</footer>
+</body>
+</html>
