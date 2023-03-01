@@ -1,11 +1,13 @@
 <!DOCTYPE html>
 	Copyright 2014 Git.Training
-<head>
+	adding changes before rebasing
 <<<<<<< HEAD
-	<title>A Zombie website</title>
+	cooking trouble up
 =======
-	<title>An example learn</title>
->>>>>>> realwork
+	fight wan start
+>>>>>>> 432c109 (adding trouble to simple.html)
+<head>
+	<title>A Zombie website</title>
 	<link rel="stylesheet" href="css/bootstrap.min.css">
 	<style>
 		body {
@@ -24,10 +26,10 @@
 	</main>
 	<footer class="container">
 <<<<<<< HEAD
-		<p>&copy; Zombie Company 2014 like shit</p>
+		<p>&copy; Learning 2014 to start trouble</p>
 =======
-		<p>&copy; Learning 2014</p>
->>>>>>> realwork
+		<p>&copy; Learning 2014 for nigeria</p>
+>>>>>>> 432c109 (adding trouble to simple.html)
 	</footer>
 </body>
 </html>
