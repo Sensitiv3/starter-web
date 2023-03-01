@@ -15,3 +15,9 @@ To understand git
 This is a sample project
 
 ## How To Contribute
+
+
+
+### Copyright
+
+2014 Git.Training.
