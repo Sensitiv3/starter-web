@@ -22,4 +22,4 @@ Please fork this repo and review
 
 ### Copyright
 
-2014 Git.Training.
+2014 Git.Training. All rights reserved.
